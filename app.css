@@ -1,10 +1,13 @@
 .sh-page {
     position: absolute;
-    margin-top: -5%;
+    margin-top: -10%;
 }
 .sh-image {
     position: static;
     margin-left: 35%;
+    margin-right: 35%;
+    border: 5px dotted black;
+    size: 50%;
     
 }
 .sh-background {
