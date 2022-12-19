@@ -62,7 +62,7 @@
             <img class="sh-image__image" data-test="main-image" ng-src="" ng-class="{'sh-image__image--loaded': imageUrl}">
         </div></sh-gallery-image><!-- end ngRepeat: image in view.code.images track by $index -->
         <sh-gallery-image ng-repeat="image in view.code.images track by $index" class="ng-scope">
-    <div class="sh-image" ng-click="openGallery(image)" ng-style="getImageContainerStyle(image)" style="padding-bottom: 20%;">
+    <div class="sh-image" ng-click="openGallery(image)" ng-style="getImageContainerStyle(image)" style="padding-bottom: 20%;width: fit-content;height: fit-content;">
      <img class="sh-image__image" data-test="main-image" ng-src="//qrcgcustomers.s3-eu-west-1.amazonaws.com/account23009024/33341939_1.png?0.8660534093013719" ng-class="{'sh-image__image--loaded': imageUrl}" src="//qrcgcustomers.s3-eu-west-1.amazonaws.com/account23009024/33341939_1.png?0.8660534093013719">
     </div></sh-gallery-image><!-- end ngRepeat: image in view.code.images track by $index -->
     <sh-gallery-image ng-repeat="image in view.code.images track by $index" class="ng-scope">
