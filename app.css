@@ -1,13 +1,16 @@
+.sh-background {
+    position: relative;
+    z-index: -1;
+}
 .sh-page {
     position: absolute;
-    margin-top: -10%;
+    margin-top: 20%;
+    margin-left: 20%;
+    
 }
 .sh-image {
-    position: static;
+    position: absolute;
     margin-left: 35%;
     border: 5px dotted black;
     
-}
-.sh-background {
-    position: static;
 }
