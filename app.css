@@ -12,7 +12,6 @@
     position: absolute;
     margin-left: 35%;
     border: 5px dotted black;
-    border-right: -20%;
-    overflow-x: hidden;
+    border-inline-width: 5px 10px;
     
 }
