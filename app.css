@@ -11,5 +11,13 @@
 .sh-image {
     position: absolute;
     margin-left: 35%;
+    content: "";
+    clear: both;
+    display: table;
     
 }
+.Column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}   
