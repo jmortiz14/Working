@@ -8,10 +8,14 @@
     margin-left: 20%;
     
 }
-.sh-image {
+.sh-image img {
     position: absolute;
     margin-left: 35%;
     border: 5px dotted black;
     border-radius: -10%;
+    width: 100%;
+    vertical-align: middle;
+    display: block;
+    
     
 }
