@@ -12,6 +12,6 @@
     position: absolute;
     margin-left: 35%;
     border: 5px dotted black;
-    border-radius: 10px;
+    border-radius: -10px;
     
 }
