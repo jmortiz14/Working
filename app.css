@@ -12,6 +12,7 @@
 .sh-image {
     position: absolute;
     margin-left: 25%;
+    margin-top: -50%;
     clear: both;
     display: table;
     text-shadow: 2px 2px;
