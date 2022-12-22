@@ -4,9 +4,9 @@
 }
 .sh-page {
     position: absolute;
-    margin-top: 20%;
+    margin-top: 40%;
     margin-left: 20%;
-    font-size: 50px;
+    font-size: 25px;
     font-weight: bold;
     font-family: Gabriola;
     
@@ -14,7 +14,7 @@
 .sh-image {
     position: absolute;
     margin-left: 20%;
-    margin-top: 10%;
+    margin-top: 30%;
     clear: both;
     display: table;
     filter: drop-shadow(9px 10px 20px);
